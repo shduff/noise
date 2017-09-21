@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Small Things</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/white.css" id="theme">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<section>
+						<h1>The Power <br>of the Miniature</h1>
+
+						<h3 class="fragment"><hr>AKA The Oppressed Power <br>of the Miniatures</h3>
+					</section>
+					<section data-background="img/toy-theater.jpg">
+					</section>
+					<section data-background="img/galaxy.jpg">
+					</section>
+					<section data-background="img/pronk.jpg" data-background-size="contain">
+					</section>
+					<section data-background="img/blm.jpg" data-background-size="contain">
+					</section>
+					<section data-background="img/black-hole.jpg" data-background-size="contain">
+					</section>
+					<section data-background="img/key.jpg" data-background-size="contain">
+					</section>
+					<section data-background="img/ovum.jpg" data-background-size="contain">
+					</section>
+					<section data-background="img/trash.jpg" data-background-size="contain">
+					</section>
+				</section>
+
+				<!-- Example of nested vertical slides -->
+				<section>
+					<section data-background="img/line.svg" data-background-size="contain">
+						<h1>a line</h1>
+						<br><br>
+					</section>
+
+					<section data-background="img/road-lines.jpg" data-background-size="contain">
+					</section>
+
+					<section data-background="img/mason.jpg" data-background-size="contain">
+					</section>
+
+					<section data-background="img/line.svg" data-background-size="contain">
+						<h1>economic growth</h1>
+						<br><br><br>
+					</section>
+
+					<section data-background="img/line.svg" data-background-size="contain">
+						<h2>no. of people not playing pokemon go right now</h2>
+						<br><br><br><br><br><br>
+						<h1 style="position:fixed;top:43%;">3</h1>
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<div style="border:solid 5px black;height:500px;width:100%;">
+							<h1 style="padding-top:1.2em;">a closed shape</h1>
+							<h3 class="fragment"><hr>a space that is totally enclosed by lines, or unbroken contours</h3>
+						</div>
+						
+					</section>
+					<section data-background="img/shapes.png" data-background-size="contain">
+					</section>
+					<section data-background="img/mobius.jpg" data-background-size="contain">
+					</section>
+					<section data-background="img/escher.jpg" data-background-size="contain">
+					</section>
+					<section data-background="img/background.png" data-background-size="contain">
+					</section>
+				</section>
+				<section>
+					<section style="position:relative;" data-background="img/face.jpg" data-background-size="contain">
+						<h1 style="position:fixed;top:0%;left:0%;">a face</h1>
+					</section>
+					<section data-background="img/cat.jpg" data-background-size="contain">
+					</section>
+					<section data-background="img/dude.jpg" data-background-size="contain">
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h2>a few more small things</h2>
+						<ol style="font-size:1.2em;">
+							<hr>
+							<li class="fragment">Something you believe in</li>
+							<li class="fragment">3 dots</li>
+							<li class="fragment">The chemical structure of an unknown element</li>
+							<li class="fragment">A seed</li>
+							<li class="fragment">A secret</li>
+							<li class="fragment">A white lie</li>
+							<li class="fragment">A single color</li>
+						</ol>
+					</section>
+					<section>
+						<h1>Small is beautiful <br> Small is big</h1>
+					</section>
+				</section>
+
+
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
