@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+    <script src="./structureData.js"></script>
+    <script src="./querySpotify.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.bundle.min.js"></script>
+</head>
+
+<body>
+    <style>
+    body {
+        font-family:Courier;
+        font-size:1em;
+        width:90%;
+        margin:auto;
+    }
+    input#idInput, input#bearerInput {
+        height:20px;
+        width:250px;
+        padding:10px;
+        border-radius:10px;
+    }
+    </style>
+    <div class="interface">
+        <input id="bearerInput" placeholder="oAuth token in form 'Bearer BQDZUkj9kKVezB...'"></input> Go to <a href="https://developer.spotify.com/console/">https://developer.spotify.com/console/</a> and login to generate a token and the text you need here<br>
+        <img style="width:32%;display:inline-block;" src="https://cl.ly/cc03b5401c55/%255B3ce4053ca1e2df88d75860d3a7f39d44%255D_Screen%252520Shot%2525202018-11-08%252520at%2525201.34.57%252520PM.png">
+        <img style="width:32%;display:inline-block;" src="https://cl.ly/d4f54f49cf46/%255B8f3b18a2b215a7bd81beaa946148d8da%255D_Screen%252520Shot%2525202018-11-08%252520at%2525201.35.06%252520PM.png">
+        <img style="width:32%;display:inline-block;" src="https://cl.ly/c94b80fd0b18/%255Ba9d4ecca603ddbb7fc3e7845ae976a4d%255D_Screen%252520Shot%2525202018-11-08%252520at%2525201.35.15%252520PM.png">
+        <br>
+        <br>
+        <input id="track" type="radio" name="spotifyType" value="track"> Track<br>
+        <input id="album" type="radio" name="spotifyType" value="album"> Album<br>
+        <input id="playlist" type="radio" name="spotifyType" value="playlist"> Playlist<br>
+        <input id="idInput" placeholder="Spotify ID of media to search"></input><br>
+        <button id="submit">Submit</button>
+
+        <ul>
+            <li>Your ID must be matched to the correct media type</li>
+            <li>For tracks, you will just get a garbly printout of spotify's data for the track</li>
+            <li>For an album or playlist, you will also get a garbly graph of the tracks' tempos</li>
+            <li>You could try:</li>
+            <ul>
+                <li>playlist ID "7hCsL8mdQB5B5QlP6MFEPc" — playlist of school of honk repertoire</li>
+                <li>album ID "7EW77iyGMou046Z44pOrIk"; — what's the story morning glory by oasis</li>
+                <li>track ID "1CkvWZme3pRgbzaxZnTl5X"; — rolling in the deep by adele</li>
+            </ul>
+        </ul>
+    </div>
+
+    <hr>
+    <div id="charts"></div>
+    <div id="spotify-output"></div>
+
+
+    <script>
+
+        document.getElementById('submit').addEventListener('click', function() {
+            let id = document.getElementById("idInput").value;
+            if (document.getElementById('track').checked == true) {
+                getTrackData(id);
+            } else if (document.getElementById('album').checked == true) {
+                let albumData = getAlbumData(id);
+                chartTempos(albumData);
+            } else if (document.getElementById('playlist').checked == true) {
+                let playlistData = getPlaylistData(id);
+                chartTempos(playlistData);
+            }
+        });
+
+        function chartTempos(tracksData) {
+            // First, parse through all the data to find tempo-related stuff and put it into 
+            let tempoMap = {};
+            let totTempo = 0;
+            let tempoList = [];
+            let tempoComparison = {};
+
+            Object.keys(tracksData).forEach(function(element) {
+                let trackData = tracksData[element];
+                tempoList.push(trackData["tempo"]);
+                totTempo += trackData["tempo"]
+                tempoMap[trackData["title"]] = trackData["tempo"];
+            });
+
+            tempoComparison["maxTempo"] = Math.max.apply(Math, tempoList);
+            tempoComparison["minTempo"] = Math.min.apply(Math, tempoList);
+
+            tempoComparison["avgTempo"] = totTempo/tempoList.length;
+            tempoComparison["tempoMap"] = tempoMap;
+
+            // Then create a chart to display the data
+            let scatterTempoCanvas = document.createElement("canvas");
+            scatterTempoCanvas.setAttribute('id','tempo1');
+            document.getElementById('charts').appendChild(scatterTempoCanvas);
+
+            var ctx = document.getElementById("tempo1").getContext('2d');
+            let points = [];
+
+            // Now place all the song tempos into a list of points and pass to a chart.js onject
+            Object.keys(tempoMap).forEach(function(element, index) {
+                let point = {x:(index+1),y:tempoMap[element]};
+                points.push(point);
+            });
+
+            console.log(points);
+
+            var scatterChart = new Chart(ctx, {
+                type: 'scatter',
+                responsive: true,
+                maintainAspectRatio: true,
+                data: {
+                    datasets: [{
+                        label: 'Tempos',
+                        pointRadius: 8,
+                        pointHoverRadius:8.5,
+                        pointBackgroundColor: 'rgba(120, 1, 21, 0.4)',
+                        pointHoverBackgroundColor: 'rgba(120, 1, 21, 0.6)',
+                        pointBorderWidth: 2,
+                        pointHoverBorderRadius:1,
+                        pointBorderColor: 'rgba(80, 80, 80, 1)',
+                        data: points,
+                    }]
+                },
+            });
+
+
+        };
+        
+
+        // function compareKeys(tracksData) {
+        //     let keyMap = {};
+        //     let keyCounter = {"C":0,"C#/Db":0,"D":0,"D#/Eb":0,"E":0,"F":0,"F#/Gb":0,"G":0,"G#/Ab":0,"A":0,"A#/Bb":0,"B":0};
+        //     let keyCode = {0:"C",1:"C#/Db",2:"D",3:"D#/Eb",4:"E",5:"F",6:"F#/Gb",7:"G",8:"G#/Ab",9:"A",10:"A#/Bb",11:"B"};
+        //     let modeCounter = {"minor":0, "major":0}
+        //     let modeCode = {0:"minor",1:"major"}
+        //     let keyComparison = {};
+
+        //     Object.keys(tracksData).forEach(function(element) {
+        //         let trackData = tracksData[element];
+
+        //         keyMap[trackData["title"]] = [keyCode[trackData["key"]], modeCode[trackData["mode"]]];
+                
+        //         keyCounter[keyCode[trackData["key"]]]++
+        //         modeCounter[modeCode[trackData["mode"]]]++
+        //     });
+
+        //     keyComparison["keyMap"] = keyMap;
+        //     keyComparison["keyCounter"] = keyCounter;
+        //     keyComparison["modeCounter"] = modeCounter;
+
+        //     return keyComparison
+        // }
+
+
+    </script>
+
+</body>
+
+</html>
