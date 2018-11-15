@@ -3,8 +3,8 @@ title: noise
 email: shaunalynn@powderhouse.org
 description: > # this means to ignore newlines until "baseurl:"
   A scrapbook for shduff's Noise & the Novice work at Powderhouse Studios
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+baseurl: /noise/ # the subpath of your site, e.g. /blog/
+url:  http://shaunalynn.org # the base hostname & protocol for your site
 twitter_username: shduff
 github_username:  shduff
 
