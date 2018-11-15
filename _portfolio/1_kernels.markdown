@@ -2,7 +2,7 @@
 layout: post
 title: kernels
 description: full-fledged ideas, half-baked projects, looking for a home
-img: /noise/media/kernels.jpeg
+img: /noise/media/kernels.png
 ---
 
 [These kernals](https://drive.google.com/open?id=1fm7FAYJeAftj4qUtrYFprDxH3v2t1DFu) are brief, ~page-long concepts for projects and programs digging into, riffing on, and extending from the powerful ideas within found within Noise and the Novice. One of the goals of a program of study is to set me up, as a creative practitioner and educator, with a seemingly bottomless, Harry Potter style bag of ideas. This bag will mean that even in the midst of a busy week, month, or year, during times when I am not feeling original or focused or prolific, I will have already collected and begun to flesh out excellent ideas for work to do personally and collaboratively with youth in order to support the creative endeavors that will serve as the foundation of Powderhouse Studios learning community. These are the beginnings of those ideas for Noise and the Novice, and below are the criteria against which we can assess the quality of these ideas within the context of Powderhouse Studios.
