@@ -2,7 +2,7 @@
 layout: post
 title: Concept music
 description: conceptual art and sound
-img: /media/waveform.png
+img: /noise/media/waveform.png
 ---
 
 # [a playlist in a day](https://www.dropbox.com/sh/ar9hacsxu8r9g73/AABMdvUCwwaZhMSyHFstmh3Wa?dl=0)

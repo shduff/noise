@@ -2,7 +2,7 @@
 layout: post
 title: kpomes
 description: love pomes on the road
-img: /media/explosion.png
+img: /noise/media/explosion.png
 redirect: http://shaunalynn.org/kpomes
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: spotify snippets
 description: programmatic explorations of music
-img: {{site.baseurl}}/media/spotify.png
+img: /noise/media/spotify.png
 redirect: /spotifysnippets
 ---
 

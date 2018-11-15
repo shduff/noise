@@ -2,7 +2,7 @@
 layout: post
 title: School of HONK
 description: making brass music more learnable and teachable
-img: /media/tiny-parade.png
+img: /noise/media/tiny-parade.png
 ---
 
 ## [Getting along the School of HONK way](https://docs.google.com/document/d/1yWwebCHf_R09ao-NkEJRCQpTCcl6ZZ-rOmwjcya-qAg/edit?usp=sharing)

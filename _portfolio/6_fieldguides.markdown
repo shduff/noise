@@ -2,7 +2,7 @@
 layout: post
 title: field guides
 description: getting to know things through documentation and observation
-img: /media/book.jpg
+img: /noise/media/book.jpg
 ---
 
 ### todos
