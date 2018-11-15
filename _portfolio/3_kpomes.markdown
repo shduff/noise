@@ -3,7 +3,7 @@ layout: post
 title: kpomes
 description: love pomes on the road
 img: /noise/media/explosion.png
-redirect: http://shaunalynn.org/kpomes
+redirect: http://kpomes.shaunalynn.org
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
