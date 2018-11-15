@@ -44,8 +44,6 @@ Ornette Coleman was notorious for this kind of thing, but punk and grunge musici
 
 * What is the Energy—beyond theory and technique—that makes music good?
 
-* What's the difference between noise and music?
-
 * How can traditional, musical training get in the way of making good music?
 
 * How can we untrain ourselves musically in an analogous way to how we might deschool ourselves academically?
