@@ -1,5 +1,5 @@
 ---
-title: Experiments in Musical Perception and Design by Jeanne Bamberger
+title: On LOGO Music Projects: Experiments in Musical Perception and Design by Jeanne Bamberger
 layout: post
 author: shaunalynn
 permalink: /on-logo-music-projects-experiments-in-musical-perception-and-design-by-jeanne-bamberger/
@@ -9,9 +9,7 @@ categories: [lit]
 tags: [computation, turtlegeometry]
 ---
 
-# On LOGO Music Projects: Experiments in Musical Perception and Design by Jeanne Bamberger
-
-This article is a lab memo from May 1979 about what Logo Music and Tuneblocks actually were, how people used them, and some initial analysis/impressions of those experiences. I am just going to list interesting observations, informally here, since the memo itself is also quite informal.
+[This article](https://drive.google.com/open?id=1E4tACOPQAr7tsvOQfUbBZAzM1gwoZNx1) is a lab memo from May 1979 about what Logo Music and Tuneblocks actually were, how people used them, and some initial analysis/impressions of those experiences. I am just going to list interesting observations, informally here, since the memo itself is also quite informal.
 
 Something that was not clear to me in reading previous articles by Bamberger is that the Tuneblocks she uses in her composition environment are not “random” or designed-to-be-archetypal or following-the-rules-of-counterpoint types of musical phrases. Instead, they are taken from existing songs. So, any collection of tuneblocks users are faced with can be recombined to make the original song. This both makes it clear why she’s always using Hot Crossed Buns as an example and makes this format much more interesting to me as a potential framework for thinking about remixing songs kids love—whether at the phrase or sub-phrase level—into original pieces.
 
