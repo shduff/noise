@@ -5,6 +5,8 @@ author: shaunalynn
 permalink: /pitch-ask-for-improv-interviews/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
+categories: [pos]
+tags: [improvinterviews, project]
 ---
 
 # Pitch/ask for Improv Interviews

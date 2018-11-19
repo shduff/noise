@@ -5,6 +5,8 @@ author: shaunalynn
 permalink: /programs-n-projects-srsly/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
+categories: [pos]
+tags: [planning, brainstorming]
 ---
 
 # Programs 'n projects, srsly

@@ -5,6 +5,8 @@ author: shaunalynn
 permalink: /program-project-proposal/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
+categories: [pos]
+tags: [brainstorming, planning]
 ---
 
 # Program, project, proposal

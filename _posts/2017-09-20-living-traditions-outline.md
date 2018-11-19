@@ -5,6 +5,8 @@ author: shaunalynn
 permalink: /living-traditions-outline/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
+categories: [pos]
+tags: [concept, brainstorming]
 ---
 
 # Living traditions outline

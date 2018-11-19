@@ -5,6 +5,8 @@ author: shaunalynn
 permalink: /reframing-around-novice-noise/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
+categories: [pos]
+tags: [concept, brainstorming]
 ---
 
 # Reframing around novice/noise

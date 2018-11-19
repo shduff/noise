@@ -5,6 +5,8 @@ author: shaunalynn
 permalink: /summer-program-plans/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
+categories: [pos]
+tags: [brainstorming, planning]
 ---
 
 # Summer Program Plans

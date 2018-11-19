@@ -1,0 +1,29 @@
+---
+layout: default
+title: lit
+permalink: /lit/
+---
+
+<div class="header-bar">
+  <h1>Noise & the Novice</h1>
+  <h2>a program of study at Powderhouse Studios</h2>
+  <br/>
+  <hr>
+  <br/>
+</div>
+
+<ul class="post-list">
+    {% for category in site.categories %}
+    	{% if category[0] == 'lit' %}
+    		{% for post in category[1] %}
+			<li>
+			<h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+			<p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+			<p>{{ post.description }}</p>
+			<br/>
+			<hr/>
+			</li>
+			{% endfor %}
+      	{% endif %}
+    {% endfor %}
+</ul>

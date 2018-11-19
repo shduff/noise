@@ -5,6 +5,8 @@ author: shaunalynn
 permalink: /some-thoughts-about-focus/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
+categories: [pos]
+tags: [brainstorming, concept]
 ---
 # 31 May 2017 — Some thoughts about focus
 

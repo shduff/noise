@@ -5,6 +5,8 @@ author: shaunalynn
 permalink: /more-programs-n-projects/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
+categories: [pos]
+tags: [brainstorming, planning]
 ---
 
 # More programs 'n projects

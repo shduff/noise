@@ -5,6 +5,8 @@ author: shaunalynn
 permalink: /concrete-ideas-to-do-with-kids/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
+categories: [pos]
+tags: [concept, brainstorming]
 ---
 
 # 01 June 2017 — Concrete ideas to do with kids

@@ -19,6 +19,9 @@ paginate_path: "/journal/page:num/"
 
 
 collections:
+  kernels:
+    output: true
+    permalink: kernels/:path/
   portfolio:
     output: true
     permalink: /portfolio/:path/

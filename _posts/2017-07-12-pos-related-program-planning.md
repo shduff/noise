@@ -5,6 +5,8 @@ author: shaunalynn
 permalink: /pos-related-program-planning/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
+categories: [pos]
+tags: [brainstorming, planning]
 --- 
 
 # POS-related program planning
