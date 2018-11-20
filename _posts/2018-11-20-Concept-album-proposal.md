@@ -12,7 +12,7 @@ published: true
 
 In the realm of acclaimed-museum- and high-end-gallery-bound work the tradition concept art lives in, the history it points to, and the vocabulary it uses certainly excludes most people. However, the *concept *of concept art (if you will) does not require a connection to this singular tradition. Concept art does not need to be tethered to technique, though it sometimes is. It does not need to be beautiful, though it sometimes is. It does not need to be, and almost by definition can't be, standalone in its nature. It is in response to something else, in conversation with the world. And It is built on *ideas, *something we care a lot about at Powderhouse and something novices can start having before they develop technique or training in a domain.
 
-# Some thoughts about this concept album
+# Some thoughts about t![image alt text]({{ site.url }}/public/ZaILdiLbdHB7lez4jyQmEw_img_0.jpg)his concept album
 
 *For my day-long project, I am going to create a concept album, a short EP of tracks which hang together through their manifestation of an idea. I want to make an album of songs rather than a song because I want to grow in my relationship to composition and idea-having more than my ability to record, edit, and produce with sounds. I want to make a concept album because I think—or at least strongly suspect—that even people who aren't deeply drawn to music can get into making concept albums, and in the longer term I want to begin developing a collection of prompts, ideas, and approaches for composing and recording original pieces that are accessible to people across skill and interest levels with music.*
 
