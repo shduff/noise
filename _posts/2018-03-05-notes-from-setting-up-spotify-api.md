@@ -5,8 +5,7 @@ author: shaunalynn
 permalink: /notes-from-setting-up-spotify-api/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-categories: [pos]
-tags: [spotifysnippets, computation, brainstorming]
+tags: [pos]
 ---
 
 # Notes from setting up Spotify API

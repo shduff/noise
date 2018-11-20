@@ -5,8 +5,7 @@ author: shaunalynn
 permalink: /concept-album-brainstorms-w-kp/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-categories: [pos]
-tags: [brainstorming, conceptmusic]
+tags: [pos]
 ---
 
 # Concept Album Brainstorms w KP

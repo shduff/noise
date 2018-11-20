@@ -5,8 +5,7 @@ author: shaunalynn
 permalink: /on-logo-music-projects-experiments-in-musical-perception-and-design-by-jeanne-bamberger/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-categories: [lit]
-tags: [computation, turtlegeometry]
+tags: [lit]
 ---
 
 [This article](https://drive.google.com/open?id=1E4tACOPQAr7tsvOQfUbBZAzM1gwoZNx1) is a lab memo from May 1979 about what Logo Music and Tuneblocks actually were, how people used them, and some initial analysis/impressions of those experiences. I am just going to list interesting observations, informally here, since the memo itself is also quite informal.

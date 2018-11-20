@@ -13,9 +13,9 @@ permalink: /lit/
 </div>
 
 <ul class="post-list">
-    {% for category in site.categories %}
-    	{% if category[0] == 'lit' %}
-    		{% for post in category[1] %}
+    {% for tag in site.tags %}
+    	{% if tag[0] == 'lit' %}
+    		{% for post in tag[1] %}
 			<li>
 			<h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 			<p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>

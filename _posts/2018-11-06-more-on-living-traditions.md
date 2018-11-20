@@ -5,8 +5,7 @@ author: shaunalynn
 permalink: /more-on-living-traditions/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-categories: [pos]
-tags: [concept, brainstorming]
+tags: [pos]
 ---
 
 # More on living traditions

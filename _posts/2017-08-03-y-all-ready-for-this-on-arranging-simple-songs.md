@@ -5,8 +5,7 @@ author: shaunalynn
 permalink: /y-all-ready-for-this-on-arranging-simple-songs/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-categories: [pos]
-tags: [soh, arranging, reflecting]
+tags: [pos]
 ---
 
 # Y'all Ready For This: On Arranging Simple Songs
