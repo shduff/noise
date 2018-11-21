@@ -5,7 +5,7 @@ author: shaunalynn
 permalink: /reframing-around-novice-noise/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-tags: [pos]
+tags: [journal]
 ---
 
 # Reframing around novice/noise

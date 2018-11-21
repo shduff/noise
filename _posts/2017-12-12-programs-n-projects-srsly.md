@@ -5,7 +5,7 @@ author: shaunalynn
 permalink: /programs-n-projects-srsly/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-tags: [pos]
+tags: [journal]
 ---
 
 # Programs 'n projects, srsly

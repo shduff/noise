@@ -5,7 +5,7 @@ author: shaunalynn
 permalink: /interview-info-via-patrick-johnson/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-tags: [pos]
+tags: [journal]
 ---
 
 # 23 March 2018 — Interview info via Patrick Johnson

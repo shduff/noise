@@ -1,27 +1,47 @@
 ---
 layout: default
 ---
-
 <div class="header-bar">
-  <h1>Noise & the Novice</h1>
-  <h2>a program of study at Powderhouse Studios</h2>
-  <br/>
-  <hr>
-  <br/>
+    <h1>Noise & the Novice</h1>
+    <h2>a program of study at Powderhouse Studios</h2>
+    <br />
+    {% for tag in site.tags %}<a class="tags" href="#{{tag[0]}}">{{tag[0]}}</a> {% endfor %}
+    <hr>
+    <br />
 </div>
+<style>
+.hidden {
+    display: none;
+}
+</style>
+<script>
+let taggedItems = document.getElementsByClassName('tags');
+
+for (let i = 0; i < taggedItems.length; i++) {
+    let taggedItem = taggedItems.item(i);
+
+    taggedItem.addEventListener('click', function() {
+        let posts = document.getElementsByClassName('post-entry');
+        let currentTag = taggedItem.innerText;
+        for (let i=0; i<posts.length; i++) {
+            if (posts[i].classList.contains(currentTag)) {
+              posts[i].classList.remove('hidden');
+            } else {
+              posts[i].classList.add('hidden');
+            };
+        };
+    });
+};
+</script>
 
 <ul class="post-list">
-    {% for tag in site.tags %}
-      {% if tag[0] == 'pos' %}
-        {% for post in tag[1] %}
-      <li>
-      <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
-      <p>{{ post.description }}</p>
-      <br/>
-      <hr/>
-      </li>
-      {% endfor %}
-        {% endif %}
+    {% for post in site.posts %}
+    <li class="post-entry {{post.tags}}">
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+        <p>{{ post.description }}</p>
+        <br />
+        <hr />
+    </li>
     {% endfor %}
 </ul>

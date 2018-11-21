@@ -1,7 +1,7 @@
 ---
 layout: post
 title: School of HONK
-description: making brass music more learnable and teachable
+description: 
 img: /noise/media/tiny-parade.png
 ---
 

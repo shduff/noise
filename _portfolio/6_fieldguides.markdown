@@ -1,7 +1,7 @@
 ---
 layout: post
 title: field guides
-description: getting to know things through documentation and observation
+description: 
 img: /noise/media/fieldguide.png
 ---
 

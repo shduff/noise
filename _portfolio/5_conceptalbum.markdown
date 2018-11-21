@@ -1,7 +1,7 @@
 ---
 layout: post
 title: concept music
-description: conceptual art and sound
+description: 
 img: /noise/media/waveform.png
 ---
 

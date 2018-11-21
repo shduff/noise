@@ -5,7 +5,7 @@ author: shaunalynn
 permalink: /power-of-the-novice-links-via-andrea-sachdeva/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-tags: [pos]
+tags: [journal]
 ---
 
 # 21 September 2017 — Power of the Novice Links via Andrea Sachdeva

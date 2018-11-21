@@ -5,7 +5,7 @@ author: shaunalynn
 permalink: /more-on-living-traditions/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-tags: [pos]
+tags: [journal]
 ---
 
 # More on living traditions

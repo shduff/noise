@@ -5,7 +5,7 @@ author: shaunalynn
 permalink: /pos-related-program-planning/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-tags: [pos]
+tags: [journal]
 --- 
 
 # POS-related program planning

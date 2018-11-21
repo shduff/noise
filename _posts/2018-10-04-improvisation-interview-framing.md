@@ -5,7 +5,7 @@ author: shaunalynn
 permalink: /improvisation-interview-framing/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-tags: [pos]
+tags: [journal]
 ---
 
 # Improvisation Interviews Framing

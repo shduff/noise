@@ -5,7 +5,7 @@ author: shaunalynn
 permalink: /summer-project-scoping/
 source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
-tags: [pos]
+tags: [journal]
 ---
 
 # 5 August 2017 — Summer Project Scoping

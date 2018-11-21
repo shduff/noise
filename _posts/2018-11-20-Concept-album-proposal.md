@@ -5,7 +5,7 @@ author: shaunalynn
 permalink: /concept-album-proposal/
 source-id: 1nFKEv6MKwP5eUiBVYKP3Cxf1H4k7jhyx3__ab-DULqo
 published: true
-tags: [pos]
+tags: [journal]
 ---
 # Some thoughts about concept art
 

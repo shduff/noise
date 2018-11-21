@@ -1,7 +1,7 @@
 ---
 layout: post
 title: kernels
-description: full-fledged ideas, half-baked projects, looking for a home
+description: 
 img: /noise/media/kernels.png
 ---
 
