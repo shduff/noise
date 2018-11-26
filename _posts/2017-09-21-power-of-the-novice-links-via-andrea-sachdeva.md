@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# 21 September 2017 — Power of the Novice Links via Andrea Sachdeva
-
 Hey friends! 
 
 Kris said you had some questions about the "power of the novice" idea that we used to talk about at ASP. From my understanding, this was something that David made up but that we found to be true in our work. A quick search yielded a few articles and blog posts that I thought you might find interesting:  

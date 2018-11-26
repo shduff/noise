@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# Program, project, proposal
-
 ## Next steps: Prospective programs and projects
 
 ### **Meta — **Design, deploy, and document at [http://shaunalynn.org/noise](http://shaunalynn.org/noise)

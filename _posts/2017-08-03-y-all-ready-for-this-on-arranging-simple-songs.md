@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# Y'all Ready For This: On Arranging Simple Songs
-
 School of HONK ran its third Camp HONK this past month. An extension of the very successful (by enrollment numbers, which have started to decline the past few years) Somerville String Camp, Camp HONK is a two week long camp that runs from 9am-noon each weekday. We invite people of any age, who have been playing their instruments for at least a year, to join us for a week of playing and parading. It's a great environment with the early hour for such loud noise-making being my main—and only—complaint.
 
 This year, as part of this Program of Study, I wanted to make a point of arranging a new song for beginners. At School of HONK, all of our songs have "simple parts anyone can play." We prioritize high pay-off songs that use simple lines and phrases to great musical effect, because we not only want new players to be able to play with us, we want them to be playing *satisfying *and *musically significant *lines. Some of our songs are just incredibly simple, high pay-off songs in this way. Period. No simplification needed. [Rock Anthem](https://youtu.be/6FQXQv2Klkk) uses three notes and a call and response. [We Got That Fire](https://youtu.be/Mckjis_Si2U) clocks in with a whopping five notes. 

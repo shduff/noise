@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# Notes from setting up Spotify API
-
 * [My Spotify login credentials](https://beta.developer.spotify.com/dashboard/applications/1a6163fddb2d427894e100a2be9d9711)
 
 * [Spotify API Docs](https://developer.spotify.com/web-api/) / [Beta Version](https://beta.developer.spotify.com/documentation/web-api/reference/tracks/get-audio-analysis/)

@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# More programs 'n projects
-
 OK, so we are making materials for one program and one project. I need to do a few different things and, in particular, I think need to organize my approach to making work within this interest. 
 
 1. **META WORK: Design/deploy shaunalynn.org/noise page for N&tN work**

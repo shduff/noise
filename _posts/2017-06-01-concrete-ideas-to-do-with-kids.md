@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# 01 June 2017 — Concrete ideas to do with kids
-
 While I was able to capture something real yesterday, I was having a lot of trouble getting into a headspace where I was having new ideas, making new connections, or actually making new *decisions* about what I want to focus on in this program. Part of the reason is that my interests are do broad, not only within music but across many domains. I love the "powerful ideas" in fields I've never studied or even mucked around in. I love doing and making things. I live arguing and designing and making music. That said, I know the boundary conditions for my life, as it stands now and as I expect it to develop over the next couple years, and those constraints helped to point me toward music. In the same way, I’m hoping that thinking about the types of things I actually want to *do *with *young people *around *music *will help me to ground my thinking and commit—even if it is just for this iteration or until I try some things out and refocus and refine this vision—to a particular line of inquiry. I know, in an instinctual way, what I will get excited about designing and then actually doing with kids, and I want to trust those instincts. Be critical of them, sure, but to trust the wisdom of the gut to know something that resonates and then use the mind to try and understand where the resonance comes from.
 
 **What do I actually want to do with young people?**

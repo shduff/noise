@@ -7,7 +7,6 @@ source-id: 1zf8ZFMHdEctqgr0cjhfgxjzu5Mr4ZWulVUsIpGtYyFg
 published: true
 tags: [journal]
 ---
-# 31 May 2017 — Some thoughts about focus
 
 When we first started to discuss the Programs of Study at PHS, I had this idea that there were many different directions I might want to go, so many things I might want to focus on. Would I look at music or theater or urban planning or programming and math puzzles or… While it *is* authentic for me to say I have interests in all of these and more, it's *dis*ingenuous for me to behave as if the first one, music, isn’t the absolute center of my universe and—more importantly for what "program of study" will come to mean at PHS, and how I hope to operationalize it in my personal and professional life—the center of my lived experience. 
 

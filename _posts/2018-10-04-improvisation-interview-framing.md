@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# Improvisation Interviews Framing
-
 I haven't had a ton of new insight about how to reimagine or reframe my program of study based on the "living traditions" conversations we had a couple weeks back. In part, I think this is because I’ve inhabited the, “What is my program of study?” headspace for quite a while now. I’ve made a lot of progress on it, feel pretty connected to the ideas which most resonate with me, and now I just need to do something real and tangible. I want to jump into a project I’ve had stewing for a while, one which is very interesting and also very intimidating to me, which I’ve been calling The Improvisation Interviews. 
 
 To speak to the interesting parts: 

@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# Summer Program Plans
-
 To start out my program of study, I am going to focus on the composition of music and my own ability to deconstruct, discuss, and recombine the elements of sound/noise which create music. My plan this summer is to do three POS projects, each of which will be turned into the stub of a program or activity to be run at PHS (documented to the point of our first meetings with Healey staff about their programs) and be supported by some hands-on experiences I can mine, reflect, revise, and refine to develop the program's arc and related resources.
 
 **Improvisations**

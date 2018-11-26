@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 --- 
 
-# POS-related program planning
-
 One of the things we decided to commit to collectively this summer—and which I extended a bit for myself—is running a program related to our POS that includes the sprout team. The extension I made for myself is that, in addition to running one program, I want to document 3 to the extent we had the Healey programs documented before getting them underway, e.g. with an arc, daily plans, examples, and etc. all ready to go. Today, I'd like to choose the three programs I am going to prepare and hope that, as I prepare them, and through having M&A respond to/revise them, I will be able to choose the one I want to run with them (Of course, authenticity will also impact this choice, since they don’t really want to make music, per se =P). So… an open brainstorm, pulling on some of those I began thinking about below:
 
 * Jam session bible (a la Rosalie's game bible, but focused on ways to facilitate jams)

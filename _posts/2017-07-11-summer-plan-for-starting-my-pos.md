@@ -8,9 +8,6 @@ published: true
 tags: [journal]
 ---
 
-
-# Summer plan for starting my pos
-
 There are a lot of paths I'd like to go down in order to move my research agenda forward. Given that there seem to be (somewhat) less outward constraints on me this summer, I am going to try and get a couple projects DONE (e.g. #1-3) and a couple UP AND RUNNING (#4-7) by the end of this quarter, in order to kickstart my program of study. Here is my plan:
 
 **Literature review beginnings**

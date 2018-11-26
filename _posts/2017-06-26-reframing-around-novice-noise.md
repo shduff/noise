@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# Reframing around novice/noise
-
 OK, so this broad-reaching framework about the role of music in and across cultures is VERY interesting to me. Aesthetically, it feels a lot like my long-time, but actually-never (e.g. once and future) project *Porridge: A History, *looking at the many different forms of porridge (gruel, cream of wheat, oatmeal, etc.) that have been developed over time and space, looking at the scientific/chemical similarities of these dishes in terms of how they gelatinize via starchy release, their place in culture and meal-making/sharing. This is great, in that it is an expression of a lens I love, and would love to develop in myself.
 
 However, if I am to give real weight to the reality of how I spend my time as the best proxy for where my real interests and loyalties lie, then this interest doesn't motivate me. I have not operationalized it in any deep or real way. This doesn’t mean I should give up on it, but to get things underway, to get things moving, I wonder if I might want to begin with a narrower scope, something that will tie together my projects in a more concrete and narrow way. This new idea for a frame is based as much in previous interests and lenses as the last one, but feels more incisive and directed.

@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# Living traditions outline
-
 [Noise and the novice](https://drive.google.com/open?id=1qdkqP-Mp3eA_kBYeA5qRBPclN1GNd_q_1tOfowETwEk) has been about: 
 
 * what makes something music as opposed to noise and then, 

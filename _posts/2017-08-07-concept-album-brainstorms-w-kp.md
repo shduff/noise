@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# Concept Album Brainstorms w KP
-
 **Novice albums**
 
 * Ornette Coleman and Denardo, Ornette at 12

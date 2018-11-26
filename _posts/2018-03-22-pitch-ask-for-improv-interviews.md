@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# Pitch/ask for Improv Interviews
-
 When I experience a great piece of art, I have a feeling of expansiveness. I am moved and touched, but less transcendently, I often have trouble understanding—on a visceral level—that another human being, or a few of them, just some other sacks of skin and bones, made up the thing that has me shivering, shuddering, and elated. It came from inside them. It didn't exist, and then it did. They brought it to life. 
 
 I feel the same way when I hear an incredible improvisation. Most of the recorded musicians I return to again and again, however, learned to play their instruments and to understand music in a different way than me. Whether they received formal training in music theory or instrument technique or they play full-time in professional bands or they are immersed in a specific musical scene or tradition which has built and imbued its own rules.

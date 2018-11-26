@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# Programs 'n projects, srsly
-
 Musical improvisation —
 
 * Collect School of HONK members' tips and tricks in a beautiful way

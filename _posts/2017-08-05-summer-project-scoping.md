@@ -8,8 +8,6 @@ published: true
 tags: [journal]
 ---
 
-# 5 August 2017 — Summer Project Scoping
-
 **Concept Album Plans:**
 
 * Found sound album, mouth sounds, two notes, after dinner mints — Still open...
